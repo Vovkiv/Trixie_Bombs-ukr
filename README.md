@@ -1,7 +1,7 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# /Trixie Bombs/ - Українською
+![обкладинка](https://github.com/Vovkiv/Trixie_Bombs-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/After being stood up by Starlight and Trixie, Twilight arranges a do-over dinner with Celestia. Twilight insists that everything go perfectly this time. Starlight promised it will. Unfortunately, Trixie has a firework on her head./
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/537883/trixie-bombs
 
 # Original cover:
-https://посилання_на_обкладинку
+https://cdn-img.fimfiction.net/story/y0el-1687476356-537883-full
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
