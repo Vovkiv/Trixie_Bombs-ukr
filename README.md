@@ -1,10 +1,11 @@
-# /Trixie Bombs/ - Українською
+# Бомби Тріксі - Українською
 ![обкладинка](https://github.com/Vovkiv/Trixie_Bombs-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/After being stood up by Starlight and Trixie, Twilight arranges a do-over dinner with Celestia. Twilight insists that everything go perfectly this time. Starlight promised it will. Unfortunately, Trixie has a firework on her head./
+Після того як Твайлайт прийняла Старлайт і Тріксі, вона влаштувала повторну вечерю з Селестією. Твайлайт наполягає, щоб усе пройшло ідеально цього разу.
+Старлайт пообіцяла, що все пройде як по маслу. На жаль, у Тріксі в капелюсі завалялись феєрверки.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/Trixie_Bombs-ukr/blob/main/Trixie%20Bombs%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
