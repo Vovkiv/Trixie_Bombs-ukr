@@ -1,11 +1,11 @@
 # Бомби Тріксі - Українською
-![обкладинка](https://github.com/Vovkiv/Trixie_Bombs-ukr/blob/main/src/cover-ukr.png?raw=true)
+![](src/cover-ukr.png)
 
 Після того як Твайлайт прийняла Старлайт і Тріксі, вона влаштувала повторну вечерю з Селестією. Твайлайт наполягає, щоб усе пройшло ідеально цього разу.
 Старлайт пообіцяла, що все пройде як по маслу. На жаль, у Тріксі в капелюсі завалялись феєрверки.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/Trixie_Bombs-ukr/blob/main/Trixie%20Bombs%20-%20ukr.pdf
+[пдф файл](Trixie%20Bombs%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -30,13 +30,13 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/537883/trixie-bombs
+[https://www.fimfiction.net/story/537883/trixie-bombs](https://www.fimfiction.net/story/537883/trixie-bombs)
 
 # Original cover:
-https://cdn-img.fimfiction.net/story/y0el-1687476356-537883-full
+[https://cdn-img.fimfiction.net/story/y0el-1687476356-537883-full](https://cdn-img.fimfiction.net/story/y0el-1687476356-537883-full)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
